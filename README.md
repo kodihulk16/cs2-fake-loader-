@@ -21,7 +21,8 @@ This project is purely for entertainment and learning.
 1. Install Python 3.x  
 2. Install Pillow
 this is for python https://youtu.be/gmDB2iZMwAQ?si=7MzC7DXDdQb-Du8U this is for pillow https://youtu.be/MZZwXonQwdI?si=nOpa-rsGT0HlonEN
-
+also run the bat file not the py one
 
 thank you for your support this is my first project love y'all :)
+
 
