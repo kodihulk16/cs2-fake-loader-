@@ -7,7 +7,7 @@ It does **not** modify CS2, interact with the game, or provide cheats of any kin
 This project is purely for entertainment and learning.
 
 ---
-
+just click esc when the troll face comes up to close it btw
 ## Features
 - Fake “loader” launcher using a `.bat` file  
 - Fullscreen trollface popup  
@@ -25,5 +25,5 @@ also run the bat file not the py one
 
 thank you for your support this is my first project love y'all :)
 
-just click esc when the troll face comes up to close it btw
+
 
