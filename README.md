@@ -25,4 +25,5 @@ also run the bat file not the py one
 
 thank you for your support this is my first project love y'all :)
 
+just click esc when the troll face comes up to close it btw
 
